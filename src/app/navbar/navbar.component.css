@@ -27,12 +27,25 @@
 }
 
 .select-language {
-    background-color: aliceblue;
-    margin-right: 20%;
+    background-color: #E0E1DD;
+    margin-right: 20px;
     width: 100px;
-    height: 25px;
+    height: 35px;
     border-radius: 5px;
 }
 .language{
     background-color: antiquewhite;
+}
+
+.SignUp{
+    background-color: #9B1820;
+    width: 100px;
+    height: 35px;
+    border-radius: 4px;
+    margin-right: 5%;
+}
+.right-div{
+    display: flex;
+    margin-right: 5%;
+    justify-content: space-between;
 }
