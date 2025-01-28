@@ -32,18 +32,22 @@
     width: 100px;
     height: 35px;
     border-radius: 5px;
+    border-color: #E0E1DD;
 }
 .language{
     background-color: antiquewhite;
 }
 
 .SignUp{
-    background-color: #9B1820;
+    background-color: #AE2012;
     width: 100px;
     height: 35px;
     border-radius: 4px;
     margin-right: 5%;
+    border-color:#AE2012;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
+
 .right-div{
     display: flex;
     margin-right: 5%;
